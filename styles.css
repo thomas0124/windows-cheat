@@ -1,0 +1,16 @@
+.command-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    width: 300px; /* 横幅を変更したいサイズに設定 */
+}
+
+
+.command-key {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.command-value {
+    flex: 1;
+}
